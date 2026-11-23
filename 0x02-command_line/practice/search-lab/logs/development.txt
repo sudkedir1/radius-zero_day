@@ -1,0 +1,3 @@
+Radius students are learning Linux commands.
+Git helps developers track changes.
+Bash scripts automate repetitive development tasks.

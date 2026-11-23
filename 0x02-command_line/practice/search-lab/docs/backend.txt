@@ -1,0 +1,3 @@
+Node.js allows JavaScript to run outside the browser.
+APIs allow frontend and backend applications to communicate.
+Databases store application information.
