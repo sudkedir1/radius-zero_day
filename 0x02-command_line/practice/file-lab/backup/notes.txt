@@ -1,0 +1,2 @@
+Linux commands help developers manage files and directories.
+The terminal is an important development tool.
